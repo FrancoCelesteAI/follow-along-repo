@@ -8,7 +8,7 @@ Each video shows one business problem fixed with AI, start to finish. Each folde
 
 | | Way A: no setup | Way B: the same setup as the video |
 |---|---|---|
-| **Good for** | Trying it right now | Getting the same result as the video |
+| **Good for** | Trying it right now | Building real files, the way the video does |
 | **You need** | A browser and any AI chat (Claude, ChatGPT, Gemini) | The Claude desktop app and a paid Claude plan |
 | **Time** | 2 minutes | About 10 minutes the first time |
 | **What you do** | Open the folder's `PROMPTS.md`, copy a prompt, paste it into your AI chat | Follow [SETUP.md](SETUP.md) once, then open the folder in the app |
