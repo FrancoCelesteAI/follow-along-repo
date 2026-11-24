@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+  <img alt="Follow along. Do what the video did. The prompts, the example data and the steps. No coding needed." src="assets/header-light.png" width="100%">
+</picture>
+
 # Follow along
 
 Free files for the videos at [youtube.com/@FrancoCelesteAI](https://www.youtube.com/@FrancoCelesteAI).
@@ -15,7 +20,7 @@ Each video shows one business problem fixed with AI, start to finish. Each folde
 
 Way A gives you the words. Way B lets the AI build real files on your computer, the way it does in the video.
 
-There is a third way: have it done for you, or learn it one to one. That is paid work, and it is at [logictalk.ai](https://logictalk.ai/).
+There is a third way: have it done for you, or learn it one to one. That is paid work, and it is at [logictalk.ai](https://logictalk.ai/). To talk it through first, [book a free call](https://calendly.com/franco-logictalk/free-ai-diagnosis?utm_source=github&utm_medium=follow-along).
 
 ## The folders
 
